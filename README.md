@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Kunyuan 👋
 
-<!--
-**Kunyuan1/Kunyuan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Statistics @ University of Toronto Mississauga**
 
-Here are some ideas to get you started:
+I build software around my hobbies, across frontend and backend, and I'm drawn to problems where the answer isn't solvable in closed form. Right now that means computer vision for volleyball and camera-based health signals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [kunyuan.vercel.app](https://kunyuan.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/kunyuan-hu-2a088430a/) · 📫 [kunyuanhu01@gmail.com](mailto:kunyuanhu01@gmail.com)
+
+🔍 **Open to software engineering & ML opportunities**: feel free to reach out!
+
+---
+
+<sub>Fun fact: my website's background is a live three-body simulation. Trisolaris doesn't survive very often.</sub>
